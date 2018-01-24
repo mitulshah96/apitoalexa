@@ -1,0 +1,171 @@
+{
+  "intents": [
+    {
+      "name": "MeetingRoomYes",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "Employee_onboardingNo"
+    },
+    {
+      "name": "Company_policies_summary"
+    },
+    {
+      "name": "Email_widget_intentNo",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "DefaultWelcomeIntentYes",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "AboutAmwaterCeo"
+    },
+    {
+      "name": "Recent_newsNo",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "DetailedProfile"
+    },
+    {
+      "name": "Recent_news"
+    },
+    {
+      "name": "Email_widget_intent",
+      "slots": [
+        {
+          "name": "dateslot",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "MeetingRoom",
+      "slots": [
+        {
+          "name": "dateslot",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "timeslot",
+          "type": "AMAZON.TIME"
+        }
+      ]
+    },
+    {
+      "name": "Email_widget_intentYes"
+    },
+    {
+      "name": "Quick_profile"
+    },
+    {
+      "name": "Recent_news_readCancel"
+    },
+    {
+      "name": "AboutAmwater"
+    },
+    {
+      "name": "Employee_onboarding"
+    },
+    {
+      "name": "Employee_onboardingYes",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "Training_resources"
+    },
+    {
+      "name": "Email_widget_intentCancel",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "Ceo_welcome"
+    },
+    {
+      "name": "DefaultWelcomeIntent",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "AboutAmwaterEmployeeCount"
+    },
+    {
+      "name": "Recent_newsYes",
+      "slots": [
+        {
+          "name": "user_first_nameslot",
+          "type": "USER_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "name": "CompanyPoliciesSummary"
+    },
+    {
+      "name": "DetailedProfile"
+    },
+    {
+      "name": "QuickProfile"
+    },
+    {
+      "name": "MeetingRoomNo"
+    },
+    {
+      "name": "QuickProfileYes"
+    },
+    {
+      "name": "Benefits"
+    },
+    {
+      "name": "LeaveTracker"
+    },
+    {
+      "name": "TrainingResources"
+    },
+    {
+      "name": "DefaultWelcomeIntentNo"
+    },
+    {
+      "name": "TimeSheet"
+    }
+  ]
+}

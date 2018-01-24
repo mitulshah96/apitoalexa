@@ -1,0 +1,271 @@
+{
+    "intents": [
+        {
+            "name": "MeetingRoomYes",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "Employee_onboardingNo",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Company_policies_summary",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Email_widget_intentNo",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "DefaultWelcomeIntentYes",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "AboutAmwaterCeo",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Recent_newsNo",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "DetailedProfile",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Recent_news",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Email_widget_intent",
+            "slots": [
+                {
+                    "name": "dateslot",
+                    "type": "AMAZON.DATE",
+                    "samples": []
+                },
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "Email_widget_intent",
+            "slots": [
+                {
+                    "name": "dateslot",
+                    "type": "AMAZON.DATE",
+                    "samples": []
+                },
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "MeetingRoom",
+            "slots": [
+                {
+                    "name": "dateslot",
+                    "type": "AMAZON.DATE",
+                    "samples": []
+                },
+                {
+                    "name": "timeslot",
+                    "type": "AMAZON.TIME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "MeetingRoom",
+            "slots": [
+                {
+                    "name": "dateslot",
+                    "type": "AMAZON.DATE",
+                    "samples": []
+                },
+                {
+                    "name": "timeslot",
+                    "type": "AMAZON.TIME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "Email_widget_intentYes",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Quick_profile",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Recent_news_readCancel",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "AboutAmwater",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Employee_onboarding",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Employee_onboardingYes",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "Training_resources",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Email_widget_intentCancel",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "Ceo_welcome",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "DefaultWelcomeIntent",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "AboutAmwaterEmployeeCount",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Recent_newsYes",
+            "slots": [
+                {
+                    "name": "user_first_nameslot",
+                    "type": "USER_FIRST_NAME",
+                    "samples": []
+                }
+            ],
+            "samples": []
+        },
+        {
+            "name": "CompanyPoliciesSummary",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "DetailedProfile",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "QuickProfile",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "MeetingRoomNo",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "QuickProfileYes",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "Benefits",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "LeaveTracker",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "TrainingResources",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "DefaultWelcomeIntentNo",
+            "samples": [],
+            "slots": []
+        },
+        {
+            "name": "TimeSheet",
+            "samples": [],
+            "slots": []
+        }
+    ]
+}
